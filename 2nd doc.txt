@@ -1,1 +1,2 @@
 content
+conflicing content from branch
