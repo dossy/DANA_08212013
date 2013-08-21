@@ -1,1 +1,2 @@
 content
+this is an edit with 1 new line
